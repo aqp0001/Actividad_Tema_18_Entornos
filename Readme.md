@@ -14,11 +14,12 @@ Esta actividad se orienta en hacer una serie de ramas de trabajo para simular co
 
 Aqui empezamos con creacion de esta actividad que es crear una carpeta con un txt que este caso es main y apartir de este paso podemos publicar el repositorio que llamara como se llame la carpeta y se inicializara con el txt creado anteriormente para empezar con la creacion de las ramas que se crean asi:
 ![Imagen](C:\Users\Alejandro\Desktop\Entornos_7\Imagenes\crear_ramas.png)
+Crearemos todas poniendo de su correspondiente nombre.
 
 
 ## Uso
 
-Explica cómo usar tu proyecto. Proporciona ejemplos si es necesario. Puedes incluir capturas de pantalla o imágenes para ilustrar el proceso.
+Una vez creada todas las ramas lo que deberemos hacer es 
 
 ## Ejemplos
 
