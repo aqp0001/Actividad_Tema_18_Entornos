@@ -1,6 +1,6 @@
 # Actividad Tema 18 de Entornos de Desarollo
 
-Esta actividad se orienta ha hacer 
+Esta actividad se orienta en hacer una serie de ramas de trabajo para simular como seria un trbajo de ramas en la vida reala en una situacion de empresa real para poder mejorar.
 
 ## Tabla de Contenidos
 
@@ -12,7 +12,9 @@ Esta actividad se orienta ha hacer
 
 ## Instalación
 
-Proporciona instrucciones claras sobre cómo instalar o configurar el proyecto. Si es necesario, incluye ejemplos de código o comandos.
+Aqui empezamos con creacion de esta actividad que es crear una carpeta con un txt que este caso es main y apartir de este paso podemos publicar el repositorio que llamara como se llame la carpeta y se inicializara con el txt creado anteriormente para empezar con la creacion de las ramas que se crean asi:
+![Imagen](C:\Users\Alejandro\Desktop\Entornos_7\Imagenes\crear_ramas.png)
+
 
 ## Uso
 
