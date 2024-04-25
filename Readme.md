@@ -18,6 +18,7 @@ Crearemos todas poniendo de su correspondiente nombre.
 ## Uso
 
 Una vez creada todas las ramas lo que deberemos hacer es crear en caso necesario en caso de cada una de las ramas ya viene predeterminado un archivo que es el que creamos al principio que tendremos que modificarlo para en caso necesario depndiendo de la situacion proceder o no al combinar dos ramas que se haria de la sguiente manera iremos al apartado control del codigo fuente y le daremos a los tres puntos donde iremos a la opcion ramas y commbinar y unicamente ahi debemos selecionar la rama que queremos combinar.
+![Imagen](Imagenes/hacercombinar.png)
 
 ## Ejemplos
 
